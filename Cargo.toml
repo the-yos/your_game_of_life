@@ -2,7 +2,9 @@
 name = "your_game_of_life"
 version = "0.1.0"
 edition = "2021"
+description = "A small Rust crate for with minimal functionality to customize Conway's Game of Life."
 repository = "https://github.com/the-yos/your_game_of_life"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
